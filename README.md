@@ -1,10 +1,11 @@
 ### Hello World!
 
-#### Jeune passionné par le développement et la cybersécurité
+#### Passionate developer with a strong interest in cybersecurity
 
-Apprenant en socle numérique à [l'EPSI](https://www.epsi.fr/)<br>
-Option [BTS SIO](https://www.epsi.fr/programmes/bts-sio-services-informatiques-aux-organisations/)<br>
+🎓 Graduated with honors from [EPSI](https://www.epsi.fr/), BTS SIO program  
+💼 Full‑stack developer in a work‑study program at [EPSI Lille](https://www.epsi.fr/)  
+📫 Email: [danael.legrand@outlook.fr](mailto:danael.legrand@outlook.fr)
 
-- ⚙️ J'utilise : `.dart`, `.py`, `.php`, `.html`, `.css`, `.js`
-- 🌍 Lille, France
-- 💬 Contactez-moi pour tout renseignement
+- ⚙️ I use: `.dart`, `.py`, `.php`, `.html`, `.css`, `.js`, `.ts`, and others
+- 🌍 Based in Lille, France
+- 💬 Feel free to reach out for collaboration or questions
